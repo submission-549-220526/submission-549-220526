@@ -1,5 +1,5 @@
 # Submission 549
-We provide the source code for reproducing Figure 9b in the main text. A pre-trained network is employed.
+This repository contains the source code for reproducing Figure 9 in the main text. A pre-trained network is provided.
 
 ## Prerequisites
 We assume a fresh install of Ubuntu 20.04. For example,
@@ -27,4 +27,4 @@ python3 online/execute_online.py -device [device]
 ```
 [device] is either cpu or cuda
 
-Solved results are stored in the output directory.
+The solutions are stored in the output directory.
