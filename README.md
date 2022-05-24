@@ -1,4 +1,7 @@
 # Submission 549
+<p align="center">
+<img src="teaser.png"  width="700"/>
+</p>
 This repository contains the source code for reproducing Figure 9 in the main text. A pre-trained network is provided.
 
 ## Prerequisites
